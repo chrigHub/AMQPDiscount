@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>jku.bac.amqp</groupId>
-	<artifactId>discount</artifactId>
+	<artifactId>AMQPDiscount</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>discount</name>
+	<name>AMQPDiscount</name>
 	<description>discount Service</description>
 
 	<properties>
